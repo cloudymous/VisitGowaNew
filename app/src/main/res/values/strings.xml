@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Visit Gowa</string>
+    <string name="app_description">
+        Aplikasi yang berisi informasi tentang Kabupaten Gowa.
+        Dibangun dengan cinta oleh Tawwa Media
+    </string>
+
+    <string name="food">Makanan</string>
+    <string name="heritage">Budaya</string>
+    <string name="nature">Alam</string>
+    <string name="sport">Olahraga</string>
+
+    <string name="food1_name">Nasi Kuning Daeng Sewang</string>
+    <string name="food1_caption">Kuliner Tengah Malam</string>
+
+    <string name="food2_name">Ayam Bakar Mas Ahmad</string>
+    <string name="food2_caption">Ayam Bakar Terenak di Gowa</string>
+
+    <string name="food3_name">Sate Depan KPU</string>
+    <string name="food3_caption">Sate Dengan Cita Rasa Khas</string>
+
+    <string name="food4_name">Coto Daeng Liwang</string>
+    <string name="food4_caption">Coto Pagi Hingga Malam</string>
+
+</resources>
